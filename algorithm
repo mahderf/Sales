@@ -1,0 +1,8 @@
+-first promt user to enter name and get the name
+-then prompt user to enter customer code and get code
+-prompt customer to enter sales amount and get amount
+- prompt customer to enter tax code and get code
+-calculate sales tax using tax code and sales amount
+- calucate to tal amount due by adding sales tax and sales amount
+- display the numer, name sales amount, sales tax, total amount due as a  sales report
+

@@ -1,0 +1,18 @@
+-	Prompt Customer to enter name
+-	Get name
+-	Prompt customer to enter Customer Number
+-	Get Customer number
+-	Prompt customer to enter sales amount
+-	Get Sales amount
+-	Prompt customer to enter tax code
+-	Get Tax code
+-	If tax code is =0, set sales tax =0
+-	If tax code =1, set sales tax = sales amount*0.02
+-	If tax code=2, set sales tax = sales amount *0.05
+-	Calculate Total amount due by adding sales amount and sales tax
+-	Print out a sales report
+-	Print out Customer number
+-	Print out Customer name
+-	Print out sales amount
+-	Print out sales tax
+-	Print out total amount due

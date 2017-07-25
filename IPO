@@ -1,0 +1,20 @@
+
+Input   
+-	Customer name
+-	Customer number
+-	Sale amount
+-	Tax code
+Processing 
+-	Get Customer name
+-	Get customer number
+-	Get sale amount
+-	Get tax code
+-	Calculate Sales tax using tax code and sale amount
+-	Calculate the total amount due using sales amount and dales tax
+
+Out put
+-	Customer name
+-	Customer number
+-	Sale amount
+-	Sales tax 
+-	Total amount due

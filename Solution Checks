@@ -1,0 +1,45 @@
+case 1 Out Put
+Enter your name: 
+blen
+Enter your Customer number: 
+1
+ Enter Sales amount: 
+200
+enter tax code: 
+0
+Sales Report
+Customer number: 1
+Customer name:blen
+Sales amount:200.0
+Sales Tax:0.0
+Total amount do: 200.0
+Case 2 Out Put
+Enter your name: 
+lulu
+Enter your Customer number: 
+2
+ Enter Sales amount: 
+300
+enter tax code: 
+1
+Sales Report
+Customer number: 2
+Customer name:lulu
+Sales amount:300.0
+Sales Tax:6.0
+Total amount do: 306.0
+Case 3 Outnter your name: 
+
+kiz
+Enter your Customer number: 
+3
+ Enter Sales amount: 
+500
+enter tax code: 
+2
+Sales Report
+Customer number: 3
+Customer name:kiz
+Sales amount:500.0
+Sales Tax:25.0
+Total amount do: 525.0 Put
